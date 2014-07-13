@@ -1,3 +1,1 @@
-test2.txt is created
-
-Create a new branch is quick AND simple.
+test2.txt is created.
