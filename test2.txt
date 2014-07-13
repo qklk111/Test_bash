@@ -2,3 +2,18 @@ test2.txt is created.
 I changed it on Internet.
 changed 3.
 changed 4.
+
+
+I have change the file, and it also need 5 hours to do the work;
+but I have to xiufu the bug.  i have to stop doing and do with the bug
+
+
+int main()
+{
+    //----
+}
+
+int func_dev()
+{
+    I have done the dev.
+}
