@@ -1,8 +1,16 @@
+test2.txt is created
+
+Create a new branch is quick and simple. new word.
+more word.houhou.
+
+the result is what?? i haoqi.
+
 test2.txt is created.
 I changed it on Internet.
 changed 3.
 changed 4.
 
+<<<<<<< HEAD
 
 I have change the file, and it also need 5 hours to do the work;
 but I have to xiufu the bug.  i have to stop doing and do with the bug
@@ -19,3 +27,14 @@ int func_dev()
 {
     I have done the dev.
 }
+
+
+// ID 1202120865
+
+void my_work()
+{
+    I have done the work.
+}
+
+
+
