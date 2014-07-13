@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 test2.txt is created.
-=======
-test2.txt is created  oh, oh!
->>>>>>> b91d9677ab6a9c76915c143014833b1c006e9cc4
