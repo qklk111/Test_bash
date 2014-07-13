@@ -12,3 +12,11 @@ changed 4.
 
 i have done the issue.
 i have done the debug.
+
+
+// ID 1202120865
+
+void my_work()
+{
+    I have done the work.
+}
