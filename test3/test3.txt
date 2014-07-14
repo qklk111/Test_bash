@@ -1,0 +1,2 @@
+directory test3 is created!
+in directory I created the test3.txt file. 
